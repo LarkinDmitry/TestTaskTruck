@@ -1,5 +1,3 @@
-using System;
-
 namespace LarkinTestTask_2_2
 {
     public interface IDrivable
